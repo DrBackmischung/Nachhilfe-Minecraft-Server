@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "346c75b7-baf2-480d-8582-6ba2eb7c0921",
+    "name": "MachinegunMathis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
