@@ -23,15 +23,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
-    "criteria": {
-      "has_blue_wool": "2023-01-05 10:33:55 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-01-05 10:33:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2023-01-05 10:33:55 +0100"
     },
     "done": true
   },
@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2023-01-05 10:33:53 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_carpet": {
     "criteria": {
       "has_lime_wool": "2023-01-05 10:33:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2023-01-05 10:33:53 +0100"
     },
     "done": true
   },
@@ -128,6 +128,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-01-05 11:59:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2023-01-05 10:33:32 +0100"
@@ -164,12 +170,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-01-05 10:36:21 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2023-01-05 10:33:50 +0100"
@@ -179,6 +179,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2023-01-05 10:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-01-05 10:36:21 +0100"
     },
     "done": true
   },
@@ -194,27 +200,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2023-01-05 10:33:54 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2023-01-05 10:33:51 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
-      "in_water": "2023-01-05 10:36:21 +0100"
+      "has_light_blue_wool": "2023-01-05 10:33:54 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
       "has_purple_wool": "2023-01-05 10:33:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-01-05 10:36:21 +0100"
     },
     "done": true
   },
@@ -248,15 +254,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2023-01-05 10:40:18 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-01-05 10:33:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-01-05 10:40:18 +0100"
     },
     "done": true
   },
@@ -326,15 +332,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_banner": {
-    "criteria": {
-      "has_cyan_wool": "2023-01-05 10:33:54 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2023-01-05 10:33:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2023-01-05 10:33:54 +0100"
     },
     "done": true
   },
@@ -386,15 +392,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-01-05 10:35:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2023-01-05 10:33:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-01-05 10:35:52 +0100"
     },
     "done": true
   },
@@ -434,21 +440,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2023-01-05 10:35:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-01-05 10:33:32 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_redstone": "2023-01-05 10:42:39 +0100"
+      "has_planks": "2023-01-05 10:35:52 +0100"
     },
     "done": true
   },
@@ -458,21 +458,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-01-05 10:42:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2023-01-05 10:33:55 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2023-01-05 10:35:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2023-01-05 10:33:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2023-01-05 10:35:52 +0100"
     },
     "done": true
   },
