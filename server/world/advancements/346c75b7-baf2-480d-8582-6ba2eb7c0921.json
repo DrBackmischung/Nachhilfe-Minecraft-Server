@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-01-05 19:12:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2023-01-05 10:35:52 +0100"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2023-01-05 19:12:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2023-01-05 10:33:32 +0100"
@@ -68,6 +80,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-01-05 10:33:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2023-01-05 19:12:26 +0100"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2023-01-05 10:36:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-01-05 19:08:35 +0100"
     },
     "done": true
   },
@@ -362,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2023-01-05 19:12:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2023-01-05 10:33:09 +0100"
@@ -407,6 +437,18 @@
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2023-01-05 10:33:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-01-05 19:12:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-01-05 19:12:26 +0100"
     },
     "done": true
   },
